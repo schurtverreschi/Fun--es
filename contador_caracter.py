@@ -1,5 +1,5 @@
 def contar_caracteres(texto):
-    return len(list(texto.strip()))
+    return len(texto.strip())
 
 
 palavra = input("Digite uma palavra: ")
