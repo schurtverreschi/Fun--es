@@ -9,3 +9,4 @@ Revisar e reforçar os conhecimentos aprendidos de funções
 - conversor_tipos: cria duas funções, a primeira responsável por converter o tipo dos elementos da lista de string pra int e a segunda por validar se a conversão foi realmente realizada em todos os elementos da lista;
 - total_vendas: Realiza a verificação do input do usuário para validar se foram digitado somente números e realiza a soma dos valores para devolver o total;
 - filtrando_números: Verifica se o input do usuário é válido e devolve somente os números pares informados;
+- lista_produtos: Pede para o usuário inserir duas listas separadas, produto e preço, combina as listas e devolve formatado;
