@@ -12,3 +12,4 @@ Revisar e reforçar os conhecimentos aprendidos de funções
 - lista_produtos: Pede para o usuário inserir duas listas separadas, produto e preço, combina as listas e devolve formatado;
 - calculadora_lambda: Atividade era suposta para utilizar funções lambda para fazer uma calculadora, mas resolvi a atividade utilizando match case, pois não vi necessidade de utilizar uma função e chamar ela logo abaixo sendo que a função lambda era para resolver numa única linha;
 - gerador_closure: Utiliza função closure para aplicar desconto ao valor final do produto;
+- soma_recursiva: Utiliza função recursiva para somar todos os números de 1 até n.
